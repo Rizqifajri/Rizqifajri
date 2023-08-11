@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizqi Fajri</h1>
 <h3 align="center">A Computer Science student at Gunadarma University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizqifajri&label=Profile%20views&color=0e75b6&style=flat" alt="rizqifajri" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kikoo_xzx" target="blank"><img src="https://img.shields.io/twitter/follow/kikoo_xzx?logo=twitter&style=for-the-badge" alt="kikoo_xzx" /></a> </p>
 
 - 🌱 I’m currently learning **Web development, Machine Learning**
 
