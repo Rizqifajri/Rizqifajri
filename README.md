@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Technology</h4>
+<h4 align="left">Technology :</h4>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Contact me</h4>
+<h4 align="left">Contact me :</h4>
 
 ###
 
@@ -64,6 +64,5 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
 
 ###
