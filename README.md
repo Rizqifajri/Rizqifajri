@@ -1,5 +1,5 @@
 # 💫 Hi, Im Rizqi Fajri
-🔭 I’m working on fullstack developer<br>⚡ Fun fact im so funny
+🔭 I’m working on frontend developer<br>
 
 
 ## 🌐 Socials:
