@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">im Working for Frontend Developer </></h2>
+<h2 align="center">👨‍💻Creative Software Dev</></h2>
 
 ###
 
